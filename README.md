@@ -174,7 +174,19 @@ Bank-Loan-Analysis/
 4. **Power BI** — Open `Bank_Loan_Analysis.pbix` in Power BI Desktop (free download from Microsoft)
 
 ---
+## 📸 Dashboard Screenshots
 
+### 📊 Excel Dashboard
+![Excel Dashboard](Screenshot%202026-05-11%20010437.png)
+
+### 📈 Tableau Dashboard
+![Tableau Dashboard 1](Screenshot%202026-05-11%20005532.png)
+![Tableau Dashboard 2](Screenshot%202026-05-11%20005549.png)
+
+### 📉 Power BI Dashboard
+![Power BI Summary](Screenshot%202026-05-11%20011740.png)
+![Power BI Overview](Screenshot%202026-05-11%20011813.png)
+![Power BI Details](Screenshot%202026-05-11%20011838.png)
 ## 👤 Author
 
 **Sarthak Bhambri**  
